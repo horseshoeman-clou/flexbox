@@ -1,0 +1,52 @@
+.container{
+    height:80px;
+    width:auto;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:8px;
+}
+.ls{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    margin:10px;
+}
+.rs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo,.lone,.ltwo,.lthree,.profile{
+    color:purple;
+    margin:10px;
+}
+
+.lone,.ltwo,.lthree{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 45px;
+    size:20px;
+}
+.logo{
+    font-size:50px;
+    font-weight:700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.notification{
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    width: 180px;
+    height:40px ;
+    background: purple;
+    text-align: center;
+}
+.profile{
+    width: 50px;
+    height:50px;
+    background-color: purple;
+    border-radius: 50%;
+}

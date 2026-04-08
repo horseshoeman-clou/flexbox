@@ -1,0 +1,140 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:300px ;
+    width: 1000px;
+    background:white;
+}
+
+.plants{
+     display: flex;
+     margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+.head{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin:32px;
+    width:400px;
+    height: 250px;
+    font-family: serif;
+    font-size:45px;
+    font-weight: bold;
+}
+
+.barberry{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height:200px;
+}
+
+.barberry img{
+    width:80px;
+    height:80px;
+    margin:5px; 
+}
+
+.barberry .text{
+    width: 100px;
+    color: black;
+    font-size: small;  
+    text-align: center;      
+    display: flex;                                                                                                                                                                                                                                                                                                                                                                         
+    justify-content: center;
+    align-items: center;
+}
+
+.chilli{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height:200px;
+}
+
+.chilli img{
+    width:80px;
+    height:80px;
+    margin:5px; 
+}
+
+.chilli .text{
+    width: 100px;
+    color: black;
+    font-size: small;  
+    text-align: center;      
+    display: flex;                                                                                                                                                                                                                                                                                                                                                                         
+    justify-content: center;
+    align-items: center;
+}
+
+.pepper{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height:200px;
+}
+
+.pepper img{
+    width:80px;
+    height:80px;
+    margin:5px; 
+}
+
+.pepper .text{
+    width: 100px;
+    color: black;
+    font-size: small;  
+    text-align: center;      
+    display: flex;                                                                                                                                                                                                                                                                                                                                                                         
+    justify-content: center;
+    align-items: center;
+}
+
+.saffron{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height:200px;
+}
+
+.saffron img{
+    width:80px;
+    height:80px;
+    margin:5px; 
+}
+
+.saffron .text{
+    width: 100px;
+    color: black;
+    font-size: small;  
+    text-align: center;      
+    display: flex;                                                                                                                                                                                                                                                                                                                                                                         
+    justify-content: center;
+    align-items: center;
+}
